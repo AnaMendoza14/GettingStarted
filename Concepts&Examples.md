@@ -11,8 +11,7 @@ Tutorial video: [click here](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 (the notes are in the personal github)
 
 # HTML
-
-La estructura es:
+The structure is:
 ` <html>`
 
  ` <head>`
@@ -21,5 +20,11 @@ La estructura es:
    ` <h1>`
    ` <p>`
 
-Este es un ejemplo: [ejemplo](/HelloWorld.html)
+Example: [example](/HelloWorld.html)
+
 # CSS
+
+Interface design.
+
+
+Link for video: [click here](https://www.youtube.com/watch?v=0afZj1G0BIE)
