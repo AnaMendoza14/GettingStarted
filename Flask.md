@@ -12,5 +12,11 @@ Tutorial video: [click here](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 
 # HTML
 
+La estructura es:
+- <html>
+ - <head>
+ - <body>
+   - <h1>
+   - <p>
 
 # CSS
