@@ -12,15 +12,16 @@ Tutorial video: [click here](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 
 # HTML
 The structure is:
+
 ` <html>`
 
- ` <head>`
+ ` <head>`: `<title>`
  
- ` <body>`
+ ` <body>`:
    ` <h1>`
    ` <p>`
 
-Example: [example](/HelloWorld.html)
+Here is an [example](/HelloWorld.html)
 
 # CSS
 
