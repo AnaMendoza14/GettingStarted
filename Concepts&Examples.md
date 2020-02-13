@@ -10,8 +10,12 @@ Basic documentation to get started: [click here](https://flask.palletsprojects.c
 Tutorial video: [click here](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 (the notes are in the personal github)
 
+`numpy` is for array
+`Pandas` for tabular data
+`Scikit-learn` for machine learning
+
 ## Functions:
-`" " "` you write this inside a function to add a descripcion. You can add some sections: 
+`" " "` you write this inside a function to add a description at the beggining and end. You can add some sections: 
 - Args
 - Returns
 - Return
