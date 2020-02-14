@@ -17,6 +17,8 @@ Instalar una libreria a python3
 Descargar version especifica: en este caso TensorFlow 1.14
 `pip3 install tensorflow==1.14`
 
+Para ver versiones de librerias/módulos:
+`pip3 freeze`
 
 ### Librerias para YOLO
 - OpenCV: `opencv-python`
