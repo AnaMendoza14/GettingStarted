@@ -20,7 +20,10 @@ Descargar version especifica: en este caso TensorFlow 1.14
 Para ver versiones de librerias/módulos:
 `pip3 freeze`
 
+[Activate](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/) virtual environment.
+
 ### Librerias para YOLO
 - OpenCV: `opencv-python`
+- OpenCV: `opencv-python-headless`
 - TensorFlow:  `tensorflow`
 -
