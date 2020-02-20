@@ -1,0 +1,22 @@
+# Raspberry Pi
+
+### Set up
+
+#### What you need:
+- SD Card from RPi
+- balenaEtcher software
+- Raspian language
+- SD Card connector
+
+#### Steps:
+1. Download balenaEtcher
+2. Download Raspian (the language) from the oficial webpage
+3. Conect the SD Card to computer (you can use a connector if you don't have the specific size of the SD Card
+4. Inside balenaEtcher, make the installation of Raspian inside the SD Card and once it's done you are good to go
+5. Connect SD Card back to Raspberry Pi
+
+
+### What you should know
+
+Raspberry Pi already includes a lot of libraries inside python3. You can see all of them with  `pip3 freeze`
+
