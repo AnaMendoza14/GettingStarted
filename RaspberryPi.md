@@ -17,7 +17,7 @@
 5. Connect SD Card back to Raspberry Pi
 
 
-### What you should know
+#### What you should know
 
 Raspberry Pi already includes a lot of libraries inside python3. You can see all of them with  `pip3 freeze`
 
