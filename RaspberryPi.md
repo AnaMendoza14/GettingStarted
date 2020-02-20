@@ -1,6 +1,7 @@
 # Raspberry Pi
 
 ### Set up
+----------------------------
 
 #### What you need:
 - SD Card from RPi
@@ -19,4 +20,13 @@
 ### What you should know
 
 Raspberry Pi already includes a lot of libraries inside python3. You can see all of them with  `pip3 freeze`
+
+### SSH and VNC
+--------------
+
+- To connect the terminal of the RPi to your computer, first enable the SSH in the RPi Menu/Preferences/RPi Configuration/Interfaces
+- Install ssh in your computer's terminal with pip3 install ssh
+- Then, follow this [video](https://www.youtube.com/watch?v=Oj_6SMktlso) 
+
+
 
