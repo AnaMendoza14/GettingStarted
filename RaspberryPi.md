@@ -28,5 +28,23 @@ Raspberry Pi already includes a lot of libraries inside python3. You can see all
 - Install ssh in your computer's terminal with pip3 install ssh
 - Then, follow this [video](https://www.youtube.com/watch?v=Oj_6SMktlso) 
 
+## Common errors
 
+for this error:
 
+`````
+# raspistill -o /tmp/gate_now.jpg
+mmal: mmal_vc_component_enable: failed to enable component: ENOSPC
+mmal: camera component couldn't be enabled
+mmal: main: Failed to create camera component
+mmal: Failed to run camera app. Please check for firmware updates
+`````
+this solution:
+`````
+pi@raspberrypi ~ $ sudo /etc/init.d/motion stop
+[ ok ] Stopping motion detection daemon: motion.
+pi@raspberrypi ~ $ /usr/bin/raspistill -o cam2.jpg
+pi@raspberrypi ~ $ sudo /etc/init.d/motion start
+[ ok ] Starting motion detection daemon: motion.
+
+`````
